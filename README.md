@@ -86,7 +86,7 @@ The model proved reliable for identifying potential churners.
 The ML-generated probability scores were exported and segmented to create an **actionable retention roadmap**.
 
 *   The generated **risk score** effectively identifies customers most likely to churn.
-*   **Example Segmentation:** High Risk (≥ 100), Medium Risk (60–99), and Low Risk (< 60).
+*   **Example Segmentation:** High Risk (≥ 70), Medium Risk (70–40), and Low Risk (< 40).
 
 ## 5. Conclusion and Recommendations
 
